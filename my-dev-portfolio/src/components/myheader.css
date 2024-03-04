@@ -1,0 +1,16 @@
+:root {
+    --dark-jungle-green: #0D1B2A;
+    --yankees-blue: #1B263B;
+    --deep-space-sparkle: #415A77;
+    --shadow-blue: #778DA9;
+    --chinese-white: #E0E1DD;
+}
+
+.headerButton {
+    color: var(--shadow-blue);
+}
+
+.headerButton:hover{
+    color: var(--yankees-blue);
+    cursor: pointer;
+}

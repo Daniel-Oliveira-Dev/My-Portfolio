@@ -1,0 +1,7 @@
+:root {
+  --chinese-white: #E0E1DD;
+}
+
+body {
+  background-color: var(--chinese-white);
+}
