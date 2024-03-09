@@ -1,7 +1,15 @@
 :root {
-  --chinese-white: #E0E1DD;
+    --dark-jungle-green: #0D1B2A;
+    --yankees-blue: #1B263B;
+    --deep-space-sparkle: #415A77;
+    --shadow-blue: #778DA9;
+    --chinese-white: #E0E1DD;
 }
 
 body {
   background-color: var(--chinese-white);
+}
+
+.mainContent{
+  margin-top: 15vh;
 }

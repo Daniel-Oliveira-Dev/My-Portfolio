@@ -8,9 +8,17 @@
 
 .headerButton {
     color: var(--shadow-blue);
+    text-decoration: none;
+    font-weight: 600;
 }
 
 .headerButton:hover{
     color: var(--yankees-blue);
     cursor: pointer;
+}
+
+.flagPNG {
+    width: 5vh;
+    height: 5vh;
+    margin: 0 2vh;
 }
