@@ -1,0 +1,40 @@
+{
+    "br": {
+        "aboutMe": {
+            "intro": "Olá! Meu nome é Daniel de Oliveira!"
+        },
+        "projects" : {
+            "projectsList" : [
+
+            ]
+        },
+        "experiences" : {
+
+        },
+        "courses" : {
+            
+        },
+        "contact" : {
+            
+        }
+    },
+    "en": {
+        "aboutMe": {
+            "intro": "Hello there! My name is Daniel de Oliveira!"
+        },
+        "projects" : {
+            "projectsList" : [
+                
+            ]
+        },
+        "experiences" : {
+
+        },
+        "courses" : {
+            
+        },
+        "contact" : {
+            
+        }
+    }
+}
