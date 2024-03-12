@@ -1,7 +1,11 @@
 {
     "br": {
         "aboutMe": {
-            "intro": "Olá! Meu nome é Daniel de Oliveira!"
+            "intro": "Olá! Meu nome é Daniel de Oliveira e seja bem-vindo ao meu portfólio!",
+            "overview" : "Formado no curso Técnico em Informática do IFSul e iniciando a graduação em Análise e Desenvolvimento de Sistemas na Unisinos. Tenho experiência em suporte ao cliente, gestão de banco de dados, lógica de programação e desenvolvimento de software. Busco uma oportunidade na área de desenvolvimento de sistemas ou de suporte técnico.",
+            "skills" : [
+
+            ]
         },
         "projects" : {
             "projectsList" : [
@@ -20,7 +24,11 @@
     },
     "en": {
         "aboutMe": {
-            "intro": "Hello there! My name is Daniel de Oliveira!"
+            "intro": "Hello there! My name is Daniel de Oliveira and welcome to my portfolio!",
+            "overview" : "Graduated from the Technical Course in Computer Science at IFSul and starting the Bachelor's Degree in Systems Analysis and Development at Unisinos. I have experience in customer support, database management, programming logic and software development. I am seeking an opportunity in the systems development or technical support field.",
+            "skills" : [
+                
+            ]
         },
         "projects" : {
             "projectsList" : [

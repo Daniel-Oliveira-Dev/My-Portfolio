@@ -17,6 +17,19 @@
     cursor: pointer;
 }
 
+.mobileSidebarButton {
+    text-align: center;
+    border: solid 1px var(--shadow-blue);
+    width: 100%;
+    padding: 2px;
+    color: var(--shadow-blue);
+}
+
+.mobileSidebarButton:hover{
+    color: var(--yankees-blue);
+    cursor: pointer;
+}
+
 .flagPNG {
     width: 5vh;
     height: 5vh;

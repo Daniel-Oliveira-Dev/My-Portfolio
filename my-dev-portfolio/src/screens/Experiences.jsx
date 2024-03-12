@@ -15,7 +15,6 @@ export function Experiences() {
         <div>
             <MyHeader handleLanguageChange={handleLanguageChange}/>
             <div className="mainContent">
-                
             </div>
         </div>
     )
