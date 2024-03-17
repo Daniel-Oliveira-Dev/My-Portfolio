@@ -3,9 +3,17 @@
         "aboutMe": {
             "intro": "Olá! Meu nome é Daniel de Oliveira e seja bem-vindo ao meu portfólio!",
             "overview" : "Formado no curso Técnico em Informática do IFSul e iniciando a graduação em Análise e Desenvolvimento de Sistemas na Unisinos. Tenho experiência em suporte ao cliente, gestão de banco de dados, lógica de programação e desenvolvimento de software. Busco uma oportunidade na área de desenvolvimento de sistemas ou de suporte técnico.",
+            "skillsName" : "Competências",
+            "inputPlaceholder" : "Pesquise por uma competência...",
             "skills" : [
-
-            ]
+                "Java", "JavaScript", "HTML", "CSS", "PHP", "SQL", "TypeScript",
+                "MySQL", "React.js", "Node.js", "API Rest", "Programação Orientada a Objetos",
+                "Consumo de APIs", "Desenvolvimento Web", "jQuery", "Java Persistence API (JPA)",
+                "Microsoft Office", "Suporte ao Cliente", "Banco de Dados", "Spring Boot", "GitHub"
+            ],
+            "gender" : "Masculino",
+            "location" : "Sapucaia do Sul, Rio Grande do Sul, Brazil",
+            "birthdate" : "2003-11-20"
         },
         "projects" : {
             "projectsList" : [
@@ -26,9 +34,17 @@
         "aboutMe": {
             "intro": "Hello there! My name is Daniel de Oliveira and welcome to my portfolio!",
             "overview" : "Graduated from the Technical Course in Computer Science at IFSul and starting the Bachelor's Degree in Systems Analysis and Development at Unisinos. I have experience in customer support, database management, programming logic and software development. I am seeking an opportunity in the systems development or technical support field.",
+            "skillsName" : "Skills",
+            "inputPlaceholder" : "Search for a skill...",
             "skills" : [
-                
-            ]
+                "Java", "JavaScript", "HTML", "CSS", "PHP", "SQL", "TypeScript",
+                "MySQL", "React.js", "Node.js", "API Rest", "Object-oriented Programming",
+                "API Usage", "Web Development", "jQuery", "Java Persistence API (JPA)",
+                "Microsoft Office", "Customer Support", "Database Management", "Spring Boot", "GitHub"
+            ],
+            "gender" : "Male",
+            "location" : "Sapucaia do Sul, Rio Grande do Sul, Brasil",
+            "birthdate" : "2003-11-20"
         },
         "projects" : {
             "projectsList" : [
