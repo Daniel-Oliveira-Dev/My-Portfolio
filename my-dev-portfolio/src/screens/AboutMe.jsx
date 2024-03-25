@@ -68,15 +68,23 @@ export function AboutMe() {
                     </div>
                 </div>
                 <div className="flex flex-col items-center">
-                    <img src={myPhoto} className="w-50 h-auto border-[var(--deep-space-sparkle)] border-solid border-[6px] rounded-md" />
-                    <div className="flex flex-row my-4 w-50 justify-evenly rounded-md
+                    <img src={myPhoto} className="h-auto w-50
+                    border-[var(--deep-space-sparkle)] border-solid border-[6px] rounded-md" />
+                    <div className="flex flex-col my-4 w-50 gap-1 justify-evenly rounded-md
                     p-1 border-[var(--deep-space-sparkle)] border-solid border-[6px]
                     bg-[var(--shadow-blue)] text-[var(--yankees-blue)] h-auto">
-                        <div>{dataJsonUsed.aboutMe.gender}</div>
-                        <div className="flex flex-row justify-center items-center">
-                            {getAgeInYears(Date.parse(dataJsonUsed.aboutMe.birthdate))}
-                            {" "}
-                            {dataJsonUsed.aboutMe.years}
+                        <div className="flex flex-row justify-evenly">
+                            <div>{dataJsonUsed.aboutMe.gender}</div>
+                            <div className="flex flex-row justify-center items-center">
+                                {getAgeInYears(Date.parse(dataJsonUsed.aboutMe.birthdate))}
+                                {" "}
+                                {dataJsonUsed.aboutMe.years}
+                            </div>
+                        </div>
+                        <div className="h-[2px] bg-[var(--deep-space-sparkle)]" />
+                        <div className="text-center text-sm flex flex-row justify-center items-center">
+                            <span className="material-symbols-outlined mx-[2px]">home_pin</span>
+                            {dataJsonUsed.aboutMe.location}
                         </div>
                     </div>
                 </div>

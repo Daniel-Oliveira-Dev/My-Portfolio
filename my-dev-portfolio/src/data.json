@@ -22,13 +22,20 @@
             ]
         },
         "experiences" : {
+            "academicBackground" : [
 
+            ],
+            "workExperiences" : [
+
+            ]
         },
         "courses" : {
-            
-        },
-        "contact" : {
-            
+            "programmingCourses" : [
+
+            ],
+            "otherCourses" : [
+
+            ]
         }
     },
     "en": {
@@ -50,17 +57,31 @@
         },
         "projects" : {
             "projectsList" : [
-                
+
             ]
         },
         "experiences" : {
+            "academicBackground" : [
 
+            ],
+            "workExperiences" : [
+
+            ]
         },
         "courses" : {
-            
-        },
-        "contact" : {
-            
+            "programmingCourses" : [
+
+            ],
+            "otherCourses" : [
+
+            ]
         }
+    },
+    "contact" : {
+        "emailAddress" : "danieloliveira@gmail.com",
+        "phoneNumber" : "+5551982948887",
+        "githubUsername" : "Daniel-Oliveira-Dev",
+        "linkedInId" : "daniel-de-oliveira-766251202",
+        "instagramId" : "daniel.oliv_"
     }
 }
